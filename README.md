@@ -1,4 +1,4 @@
-# @sensu/superlogin [![Build Status](https://travis-ci.org/sen-su/superlogin.png?branch=master)](https://travis-ci.org/sen-su/superlogin)
+# @fitconsulting/superlogin [![Build Status](https://travis-ci.org/fitconsulting/superlogin.png?branch=master)](https://travis-ci.org/fitconsulting/superlogin)
 
 ## An up-to-date version of superlogin that is actually published.
 
