@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## 1.2.9 - 2019-03-17
+## 1.3.0 - 2019-03-17
 
 * onLogin(fn) functions and onSession(fn) function added to Main API
 
